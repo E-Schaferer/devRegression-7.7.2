@@ -27,7 +27,7 @@ operation:
           - columnReferences:
               - columnCounter: 61f8b292-64b0-439c-988e-6ce5291412f7
                 stepCounter: ac5768a1-744d-4c1b-ac8d-a99167819db4
-            transform: ""
+            transform: asdfadsf
       - appliedColumnTests: {}
         columnReference:
           columnCounter: 5a8bf9df-155a-47db-8549-d2a9e1573afe
