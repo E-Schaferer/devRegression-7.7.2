@@ -6,6 +6,6 @@ mappingDefinitions:
     schema: TPCH_SF001
   WORK:
     database: EVAN_DEV_EDW
-    schema: PUBLIC
+    schema: DEV_DATA_MART
 name: New Environment
 type: Environment
