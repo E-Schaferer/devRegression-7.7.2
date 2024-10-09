@@ -31,7 +31,7 @@ operation:
         nullable: true
         sourceColumnReferences:
           - columnReferences: []
-            transform: ""
+            transform: new transform
       - appliedColumnTests: {}
         columnReference:
           columnCounter: a6450847-15b9-499e-8ba1-f7dbb65c787c
