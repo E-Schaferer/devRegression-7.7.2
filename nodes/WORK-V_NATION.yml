@@ -20,14 +20,14 @@ operation:
           stepCounter: 82a30134-639b-4004-b46b-075ddeedc236
         config: {}
         dataType: NUMBER(38,0)
-        description: ""
+        description: asdfasdfasdf
         name: N_NATIONKEY
         nullable: false
         sourceColumnReferences:
           - columnReferences:
               - columnCounter: 61f8b292-64b0-439c-988e-6ce5291412f7
                 stepCounter: ac5768a1-744d-4c1b-ac8d-a99167819db4
-            transform: asdfadsf
+            transform: ""
       - appliedColumnTests: {}
         columnReference:
           columnCounter: 5a8bf9df-155a-47db-8549-d2a9e1573afe
