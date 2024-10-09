@@ -6,6 +6,6 @@ mappingDefinitions:
     schema: TPCH_SF001
   WORK:
     database: EVAN_DEV_EDW
-    schema: PROD_STAGING
+    schema: PUBLIC
 name: New Environment
 type: Environment
