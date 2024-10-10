@@ -5,7 +5,7 @@ mappingDefinitions:
     database: COALESCE_SAMPLE_DATABASE
     schema: TPCH_SF001
   WORK:
-    database: QA_DEPLOY_PHASES
-    schema: QA_DEPLOY_PHASE
+    database: EVAN_DEV_EDW
+    schema: PUBLIC
 name: New Environment
 type: Environment
