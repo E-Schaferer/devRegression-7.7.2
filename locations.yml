@@ -1,5 +1,6 @@
-defaultStorageMapping: WORK
+defaultStorageMapping: STG2
 fileVersion: 1
 locations:
   - SAMPLE
+  - STG2
   - WORK
